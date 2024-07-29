@@ -1,0 +1,25 @@
+h1 {
+  color: steelblue;
+  text-decoration: underline;
+  font-style: italic;
+}
+
+.note {
+  color: grey;
+  padding-top: 3px;
+  font-size: 15px;
+}
+
+.error {
+  background-color: rgb(255, 99, 71);
+  border: 2px solid red;
+  font-size: large;
+  color: white;
+  margin: 15px;
+  padding: 10px;
+  display: inline-block;
+
+  position: fixed;
+  top: 15px;
+  left: 50%;
+}
