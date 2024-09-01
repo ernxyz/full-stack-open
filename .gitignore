@@ -2,3 +2,5 @@
 /part3
 /part4
 .env
+
+node_modules

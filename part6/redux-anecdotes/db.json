@@ -1,0 +1,29 @@
+{
+  "anecdotes": [
+    {
+      "id": "18092",
+      "content": "new",
+      "votes": 6
+    },
+    {
+      "id": "9557",
+      "content": "other",
+      "votes": 3
+    },
+    {
+      "id": "27163",
+      "content": "another one",
+      "votes": 7
+    },
+    {
+      "id": "11575",
+      "content": "new vaina",
+      "votes": 1
+    },
+    {
+      "id": "36023",
+      "content": "another vaina",
+      "votes": 3
+    }
+  ]
+}
