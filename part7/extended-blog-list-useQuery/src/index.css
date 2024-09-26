@@ -1,0 +1,53 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Roboto;
+  
+  background-color: black;
+  color: white;
+}
+
+.navbar-link {
+  color: white;
+  text-decoration: none;
+}
+
+.MuiTextField-root {
+  margin: 10px 20px !important;
+}
+
+.MuiToolbar-root {
+  background-color: black;
+  border-bottom: 2px solid white;
+}
+
+.MuiListItem-root {
+  border-bottom: 1px dashed white;
+} 
+
+.card {
+  margin: 20px 0;
+  background-color: #17153B !important;
+  color: white !important;
+}
+
+.page {
+  margin-top: 20px;
+}
+
+.comment-form {
+  display: flex;
+  align-items: center;
+}
+
+a {
+  color: aliceblue;
+}
+
+ul {
+  list-style-type: none;
+}
